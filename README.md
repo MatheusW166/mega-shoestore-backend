@@ -216,3 +216,29 @@ POST /pedidos
 
 #### Resposta
 Nada
+
+## Rodando localmente
+
+Pré requisitos: NodeJS e MongoDB na última versão estável.
+
+#### Clonando repositório
+
+```bash
+git clone https://github.com/MatheusW166/mega-shoestore-backend.git
+```
+
+#### Configurando .env
+
+- Crie um arquivo com o nome .env no seguinte formato:
+```
+DATABASE_URL="sua url de conexão com o mongodb"
+```
+
+#### Rodando em modo dev
+
+```bash
+npm install
+npm run dev
+```
+
+🚀 Divirta-se!
