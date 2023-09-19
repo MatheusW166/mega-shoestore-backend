@@ -219,7 +219,7 @@ Nada
 
 ## Rodando localmente
 
-Pré requisitos: NodeJS e MongoDB na última versão estável.
+Pré-requisitos: NodeJS e MongoDB na última versão estável.
 
 #### Clonando repositório
 
